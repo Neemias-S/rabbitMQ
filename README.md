@@ -12,7 +12,7 @@ Essa é uma demonstração prática
 - Docker instalado e configurado; 
 
 ---
-###How to
+### How to
 
 - Abra o terminal na pasta ```local``` do projeto
 - Execute o comando ````start_resources.sh````
@@ -29,7 +29,7 @@ Essa é uma demonstração prática
 
 A aplicação publica eventos que são processados por meio do RabbitMQ, um framework de mensageria.
 Ao abrirmos a fila, é possível ver os gráficos sendo atualizados em tempo real, que indicam a atuaçao da fila.
-No terminal em que rodou a aplicação, o console irá criar um log toda vez que um evento or criado, e processado. E, de tempos em tempos, quantos eventos foram processados no total.
+No terminal em que rodou a aplicação, o console irá criar um log toda vez que um evento or criado ou processado e, de tempos em tempos, quantos eventos foram processados no total.
 
 
 
