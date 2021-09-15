@@ -10,6 +10,7 @@ Essa é uma demonstração prática
 ## Pré Requisitos
 
 - Docker instalado e configurado; 
+- Maven instalado e configurado
 
 ---
 ### How to
