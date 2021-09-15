@@ -3,7 +3,7 @@
 Integrantes do Grupo:
  - Rodolfo Soares 
  - Neemias Souza
- - 
+ 
 
 Essa é uma demonstração prática 
 
@@ -25,7 +25,7 @@ Essa é uma demonstração prática
 - Execute a aplicação com este comando: ```mvn spring-boot:run```
 
 ---
-###Aplicação
+### Aplicação
 
 A aplicação publica eventos que são processados por meio do RabbitMQ, um framework de mensageria.
 Ao abrirmos a fila, é possível ver os gráficos sendo atualizados em tempo real, que indicam a atuaçao da fila.
